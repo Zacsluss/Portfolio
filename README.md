@@ -1,113 +1,78 @@
 <div align="center">
 
-# 🚀 ZACHARY SLUSS | DIGITAL PORTFOLIO 🚀
+# ZACHARY SLUSS
 
-[![Live Demo](https://img.shields.io/badge/🌐_LAUNCH_PORTFOLIO-00FF00?style=for-the-badge&logoColor=white&labelColor=000000)](https://zacsluss.github.io/Portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zacsluss)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zacharyjsluss/)
+### Digital Portfolio & Professional Showcase
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=TECH+ENTHUSIAST;AI+%26+MACHINE+LEARNING;DIGITAL+ARTIST;DRONE+PILOT;PROBLEM+SOLVER" alt="Typing SVG" />
+[![Live Portfolio](https://img.shields.io/badge/VIEW_LIVE_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zacsluss.github.io/Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zacsluss)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zacharyjsluss/)
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=200&size=16&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Technology+Professional;AI+and+Machine+Learning+Engineer;Digital+Artist+and+Designer;Certified+Drone+Pilot" alt="Typing SVG" />
+
+</div>
 
 ---
 
-### ⚡ **[ENTER THE MATRIX → LIVE PORTFOLIO](https://zacsluss.github.io/Portfolio/)** ⚡
+## Overview
 
----
+A modern, interactive portfolio showcasing professional achievements, technical projects, and creative works. Built with cutting-edge web technologies and featuring immersive 3D animations, this portfolio represents the intersection of technology and creativity.
 
-</div>
+**🔗 Live Site: [zacsluss.github.io/Portfolio](https://zacsluss.github.io/Portfolio/)**
 
-## 🎯 **MISSION CONTROL**
+## Features
 
-> **More than Just a Tech & Management Professional. More than Just an Artist. More than Just Passionate about Building up Projects, or Solving Problems. Above All, On a Neverending Quest for Knowledge!**
+### Dynamic Visual Experience
+- **3D Animations** - Powered by Spline and Three.js for immersive backgrounds
+- **Responsive Design** - Optimized for all devices and screen sizes
+- **Interactive Elements** - Smooth transitions and hover effects with custom underglow
+- **Performance Optimized** - Lazy loading and efficient asset management
 
-<div align="center">
+### Portfolio Sections
 
-```ascii
-╔═══════════════════════════════════════════════════════════╗
-║                    SYSTEM INITIALIZED                     ║
-║                 PORTFOLIO STATUS: ONLINE                  ║
-║              CREATIVITY LEVEL: MAXIMUM                    ║
-╚═══════════════════════════════════════════════════════════╝
-```
+#### 🤖 **AI & Technology**
+Advanced solutions in artificial intelligence, machine learning, and software development
 
-</div>
+#### 🎨 **Art & Design**
+Digital artwork, creative designs, and musical compositions
 
-## 🌐 **NAVIGATION SECTORS**
+#### 🚁 **Drone 360°**
+Professional aerial photography and immersive 360-degree experiences
 
-<table align="center">
-<tr>
-<td align="center" width="200">
+#### 📜 **Certifications**
+Industry-recognized credentials and continuous professional development
 
-### 🤖 AI & TECH
-[![Tech](https://img.shields.io/badge/EXPLORE-00FF00?style=flat-square&labelColor=000000)](#)
+## Technical Stack
 
-Advanced AI Solutions • Machine Learning • Software Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 
-</td>
-<td align="center" width="200">
+- **Frontend**: HTML5, CSS3, JavaScript ES6+
+- **3D Graphics**: Three.js, Vanta.js, Spline
+- **Deployment**: GitHub Pages
+- **Version Control**: Git & GitHub
 
-### 🎨 ART & MUSIC
-[![Art](https://img.shields.io/badge/EXPLORE-FF00FF?style=flat-square&labelColor=000000)](#)
+## Design Philosophy
 
-Digital Design • Creative Works • Musical Compositions
+> "More than just a tech professional or artist. Above all, on a neverending quest for knowledge."
 
-</td>
-</tr>
-<tr>
-<td align="center" width="200">
+The portfolio embodies a minimalist yet sophisticated approach, featuring:
+- Clean, professional layout with high-tech aesthetics
+- Color-coded navigation with unique underglow effects per section
+- Seamless integration of 3D elements without overwhelming content
+- Focus on user experience and accessibility
 
-### 🚁 DRONE 360°
-[![Drone](https://img.shields.io/badge/EXPLORE-FF9500?style=flat-square&labelColor=000000)](#)
-
-Aerial Photography • 360° Immersive • Professional Services
-
-</td>
-<td align="center" width="200">
-
-### 📜 CERTIFICATIONS
-[![Certs](https://img.shields.io/badge/EXPLORE-0096FF?style=flat-square&labelColor=000000)](#)
-
-Professional Credentials • Continuous Learning • Industry Standards
-
-</td>
-</tr>
-</table>
-
-## 💻 **TECH STACK MATRIX**
+## Connect
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-
-</div>
-
-## ✨ **FEATURES**
-
-<div align="center">
-
-| Feature | Description |
-|---------|-------------|
-| 🌊 **Dynamic Backgrounds** | Immersive 3D Spline & Vanta.js animations |
-| 💎 **Neon Underglow** | Page-specific color-coded button effects |
-| 📱 **Responsive Design** | Optimized for all devices and screens |
-| 🎯 **Interactive UI** | Smooth hover effects and transitions |
-| 🚀 **Performance** | Lazy loading and optimized assets |
-
-</div>
-
-## 🔗 **CONNECT TO THE NETWORK**
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zacharyjsluss@gmail.com)
-[![Phone](https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+16035156051)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zacharyjsluss/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zacsluss)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zacharyjsluss@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zacharyjsluss/)
+[![Phone](https://img.shields.io/badge/Contact-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+16035156051)
 
 </div>
 
@@ -115,18 +80,8 @@ Professional Credentials • Continuous Learning • Industry Standards
 
 <div align="center">
 
-### 🌟 **[LAUNCH PORTFOLIO](https://zacsluss.github.io/Portfolio/)** 🌟
+**© 2024 Zachary Sluss | All Rights Reserved**
 
-```javascript
-while (true) {
-    learn();
-    create();
-    innovate();
-}
-```
-
-<img src="https://komarev.com/ghpvc/?username=zacsluss&label=Portfolio%20Views&color=00ff00&style=flat-square" alt="Profile views" />
-
-**© 2024 Zachary Sluss | Crafted with 💚 and Code**
+<img src="https://komarev.com/ghpvc/?username=zacsluss&label=Profile%20Views&color=grey&style=flat-square" alt="Profile views" />
 
 </div>
