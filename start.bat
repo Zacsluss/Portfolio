@@ -30,10 +30,10 @@ set MAX_PORT=9999
 :FINDPORT
 echo Checking port %PORT%...
 
-:: Use PowerShell for more reliable port checking
-powershell -Command "try { $listener = [System.Net.Sockets.TcpListener]::new('127.0.0.1', %PORT%); $listener.Start(); $listener.Stop(); exit 0 } catch { exit 1 }" >nul 2>&1
+:: Use netstat to check if port is in use (more reliable)
+netstat -an | findstr ":%PORT% " | findstr "LISTENING" >nul 2>&1
 
-if %errorlevel% neq 0 (
+if %errorlevel% equ 0 (
     echo Port %PORT% is in use, trying next port...
     set /a PORT+=1
     if %PORT% gtr %MAX_PORT% (
