@@ -1,4 +1,5 @@
 # Zachary Sluss Portfolio Website - Complete Documentation
+<!-- Last Updated: 2025 -->
 
 ## 🎯 Executive Summary
 

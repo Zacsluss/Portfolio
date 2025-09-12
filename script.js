@@ -1,3 +1,4 @@
+// Portfolio Script - Updated 2025
 document.addEventListener('DOMContentLoaded', function () {
   
     // Hide the loading spinner once the DOM is fully loaded
