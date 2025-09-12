@@ -11,7 +11,9 @@
       "Bash(git push:*)",
       "Bash(git pull:*)",
       "Bash(rm:*)",
-      "Bash(git fetch:*)"
+      "Bash(git fetch:*)",
+      "Bash(git ls-tree:*)",
+      "Bash(git remote get-url:*)"
     ],
     "deny": [],
     "ask": []
