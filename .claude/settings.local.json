@@ -10,7 +10,8 @@
       "Bash(git config:*)",
       "Bash(git push:*)",
       "Bash(git pull:*)",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "Bash(git fetch:*)"
     ],
     "deny": [],
     "ask": []
